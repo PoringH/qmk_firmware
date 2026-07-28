@@ -25,11 +25,10 @@
         "rows": ["C3", "A0", "A1", "A2", "B10", "A15"]
     },
     "processor": "STM32F072",
-    "url": "",
     "usb": {
         "device_version": "1.0.0",
-        "pid": "0x0001",
-        "vid": "0x5048"
+        "pid": "0x0003",
+        "vid": "0x5047"
     },
     "layouts": {
         "LAYOUT_75_ansi": {
